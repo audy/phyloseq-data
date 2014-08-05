@@ -1,7 +1,7 @@
-# microbiome-datasets
+# phyloseq-data
 
-This repository contains links/submodules and scripts for downloading
-as many public 16S rRNA microbiome datasets as possible.
+This repository contains links/submodules and scripts for downloading as many
+public 16S rRNA microbiome datasets as possible.
 
 There are scripts for converting output into Rdata files which can be
 interpreter by the Phyloseq package in R.
