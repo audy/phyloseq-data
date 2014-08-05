@@ -1,0 +1,4 @@
+# ignore raw data from the QIIME DB
+*.tgz
+*.zip
+*.gz
